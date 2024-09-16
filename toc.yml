@@ -1,0 +1,6 @@
+- name: Daily Routine
+  href: routine/
+- name: Maintenance
+  href: maintenance/
+- name: Emergencies
+  href: emergencies/
