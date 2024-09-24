@@ -5,6 +5,7 @@ He's pretty easy going and these are not strict requirements if weather does not
 - 1.5-3ish miles
 - 45-60 minutes
 - Loop
+- Max 75°F in strong sunlight, 80°F in shade
 
 ## Equipment
 - Collar

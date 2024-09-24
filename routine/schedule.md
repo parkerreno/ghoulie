@@ -1,5 +1,6 @@
 # Schedule
 
+## Required Activities
 | Time | Activity | Notes |
 | ---- | -------- | ----- |
 | 8:00am | Breakfast | Later is fine, but he might wake you up if he's hungry |
@@ -9,3 +10,8 @@
 | Before Bed | Bathroom | Check if he wants to, sometimes uninterested |
 
 **Pretty much all of these can be +/- at least an hour*
+
+## Other activities
+- Petting
+- Training - he knows sit, shake, and down
+- Toys - he is uninterested
