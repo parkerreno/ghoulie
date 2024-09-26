@@ -13,8 +13,9 @@ He's pretty easy going and these are not strict requirements if weather does not
 ## Equipment
 - Collar
 - Leash
-- Harness (recommended)
 - Waste bags  (min 3)
+- Harness (recommended)
+- Raincoat (optional)
 
 ## Tips & Tricks
 
@@ -29,3 +30,4 @@ He's pretty easy going and these are not strict requirements if weather does not
 - He's generally good with other dogs, though not always interested.
 - If he stops, pause for a bit and try moving again.  Usually waiting will get him unstuck, though he occasionally needs a sustained pull to jumpstart him.
 - If his leash gets tangled in his legs, he will stop until you fix it.
+- Raincoat is optional - he will usually walk slower with it on.  For light rain, his coat is waterproof enough that I usually skip it and do a quick towel dry afterwards.
