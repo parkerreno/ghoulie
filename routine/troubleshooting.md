@@ -7,3 +7,4 @@
 | He won't stop punching me (2+ minutes) | He wants to use the bathroom or it's dinner time |
 | He's kicking me | He probably doesn't like that (usually brushing) |
 | Not eating breakfast after going out | If you've let him out before breakfast, you will need to bring his bowl to him at a later time to get him to eat |
+| Barking | You will typically need to go look at what he's seeing and tell him it's ok |
