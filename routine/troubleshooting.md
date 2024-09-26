@@ -8,3 +8,4 @@
 | He's kicking me | He probably doesn't like that (usually brushing) |
 | Not eating breakfast after going out | If you've let him out before breakfast, you will need to bring his bowl to him at a later time to get him to eat |
 | Barking | You will typically need to go look at what he's seeing and tell him it's ok |
+| He's stopped walking | If his leash is tangled in his legs, untangle.  If not, wait for a bit, try again |

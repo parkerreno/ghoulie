@@ -28,3 +28,4 @@ He's pretty easy going and these are not strict requirements if weather does not
 - Harness is not required but recommended for beginners as it's easy to control him if he pulls.
 - He's generally good with other dogs, though not always interested.
 - If he stops, pause for a bit and try moving again.  Usually waiting will get him unstuck, though he occasionally needs a sustained pull to jumpstart him.
+- If his leash gets tangled in his legs, he will stop until you fix it.
